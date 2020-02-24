@@ -1,0 +1,11 @@
+D:\Dev\MM\ToySimulator\bin\Debug\netcoreapp3.1\ToySimulator.exe
+D:\Dev\MM\ToySimulator\bin\Debug\netcoreapp3.1\ToySimulator.deps.json
+D:\Dev\MM\ToySimulator\bin\Debug\netcoreapp3.1\ToySimulator.runtimeconfig.json
+D:\Dev\MM\ToySimulator\bin\Debug\netcoreapp3.1\ToySimulator.runtimeconfig.dev.json
+D:\Dev\MM\ToySimulator\bin\Debug\netcoreapp3.1\ToySimulator.dll
+D:\Dev\MM\ToySimulator\bin\Debug\netcoreapp3.1\ToySimulator.pdb
+D:\Dev\MM\ToySimulator\obj\Debug\netcoreapp3.1\ToySimulator.AssemblyInfoInputs.cache
+D:\Dev\MM\ToySimulator\obj\Debug\netcoreapp3.1\ToySimulator.AssemblyInfo.cs
+D:\Dev\MM\ToySimulator\obj\Debug\netcoreapp3.1\ToySimulator.dll
+D:\Dev\MM\ToySimulator\obj\Debug\netcoreapp3.1\ToySimulator.pdb
+D:\Dev\MM\ToySimulator\obj\Debug\netcoreapp3.1\ToySimulator.csprojAssemblyReference.cache
