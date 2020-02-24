@@ -3,4 +3,10 @@ Toy Simulator
 	- Uses Command Design Pattern to simulate the queueing of the commands
 	- Uses Interpreter Design Pattern to read the instructions from a string array and separate them as commands to be executed
 	- The Interpreter is designed to convert an input from commandline or file and convert it into commands to execute. 
-	- However, it currently does not take input directly either from console or from a file. But can be plugged in seamlessly on top of the Interpreter
+	- However, it currently does not take input directly either from console or from a file. 
+	- But can be plugged in seamlessly on top of the Interpreter
+	- Solution .sln file is present under ToySimulator folder
+	- Built on .net core 3.1
+	- Unit Test project is of XUnit Project type
+	- It uses Moq and Fluent Assertions
+	- Not all parts of code is covered with Unit Tests. But, the Tests are present to demonstrate Unit Testing approach
